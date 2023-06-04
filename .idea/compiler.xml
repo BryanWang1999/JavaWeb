@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven-project01" />
+        <module name="tlias-web-management" />
         <module name="springboot-web-starter" />
         <module name="springboot-mybatis-crud" />
         <module name="springboot-mybatis-quickstart" />
@@ -20,6 +21,7 @@
       <module name="springboot-mybatis-crud" options="-parameters" />
       <module name="springboot-mybatis-quickstart" options="-parameters" />
       <module name="springboot-web-starter" options="-parameters" />
+      <module name="tlias-web-management" options="-parameters" />
     </option>
   </component>
 </project>
